@@ -24,11 +24,12 @@ jobs:
       - name: Install yarn
         run: npm install yarn -g
       - name: Install Dependencies
-        run: npm install --registry=https://registry.npmmirror.com/
+        run: yarn
       - name: Build
         run: yarn
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: xuchao996/xuchao996.github.io
           publish_dir: ./public
