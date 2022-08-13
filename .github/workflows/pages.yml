@@ -21,8 +21,9 @@ jobs:
           key: ${{ runner.OS }}-npm-cache
           restore-keys: |
             ${{ runner.OS }}-npm-cache
-      - name: Install Dependencies
+      - name: Install yarn
         run: npm install yarn -g
+      - name: Install Dependencies
         run: yarn install
       - name: Build
         run: yarn build
