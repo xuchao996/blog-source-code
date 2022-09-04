@@ -1,5 +1,6 @@
 ---
 title: github page + hexo 搭建个人博客
+date: 2022-08-08
 ---
 
 
