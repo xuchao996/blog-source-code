@@ -39,7 +39,7 @@ minivaline: ## See: https://github.com/MiniValine/MiniValine
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
   # Available values: en  | zh-CN | (and many more)
   # More i18n info: https://github.com/MiniValine/minivaline-i18n
-  lang:
+  lang: zh-CN
 waline: ## See: https://waline.js.org/
   enable: false ## If you want to use Waline comment system, please set the value to true.
   serverURL: ## Your server url, e.g. https://your-domain.vercel.app
@@ -114,10 +114,10 @@ widgets: ## Seven widgets in sidebar provided: search, info, category, tag, rece
   - search
   - info
   - category
-  - tag
+  # - tag
   - recent_posts
   - recent_comments
-  - links
+  # - links
 
 info:
   avatar: /img/avatar.png
@@ -130,7 +130,7 @@ info:
       outlink: mailto:admin@domain.com
       message: Email
     - name: github
-      outlink: https://github.com/username
+      outlink: https://github.com/xuchao996
       message: Github
     - name: rss
       outlink: atom.xml
