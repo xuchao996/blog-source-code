@@ -16,8 +16,6 @@ categories: react
 | React 更新真实Dom和Refs | React 更新真实Dom和Refs | componentWillUnMount     |
 | ComponentDidMounted 	 | ComponentDidUpdate			|      |
 
-![](https://cdn.jsdelivr.net/gh/xuchao996/gallary@main/imgs/20220917184843.png)
-
 
 
 QA
