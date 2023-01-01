@@ -1,7 +1,7 @@
 ---
-Title: other another
-Date: 0000-00-00
-Description: 希望有的那么一天
+title: other another
+date: 0000-00-00
+description: 希望有的那么一天
 ---
 
 
