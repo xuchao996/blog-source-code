@@ -32,3 +32,6 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
+### front-matter
+
+https://hexo.io/zh-cn/docs/front-matter
