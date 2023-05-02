@@ -46,6 +46,15 @@ http://www.zelinai.com
 **动手学深度学习**
 https://zh-v2.d2l.ai/chapter_preface/index.html
 
+**四月datawhale 活动**
+![四月datawhale 活动](https://cdn.jsdelivr.net/gh/xuchao996/gallary@main/imgs/output.png)
+
+https://mp.weixin.qq.com/s/PXKswTWqjCYw03LLi8eS8w
+1. datawhale [GPT 从入门到应用](https://linklearner.com/#/learn/detail/120) - 需要登录
+
+**datawhole 人工智能学习路线图**
+![人工智能学习路线图](https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc)
+
 # 总的花费
 开通newbing chatgpt 账号 2刀
 plus 体验 150
