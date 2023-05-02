@@ -16,7 +16,7 @@ categories: react
 | React 更新真实Dom和Refs | React 更新真实Dom和Refs | componentWillUnMount     |
 | ComponentDidMounted 	 | ComponentDidUpdate			|      |
 
-
+![](https://cdn.jsdelivr.net/gh/xuchao996/gallary@main/imgs/20220926212434.png)
 
 QA
 1: 你好，"进入提交阶段，React 会先执行 Effect 的清理函数，然后再次执行 Effect。"
