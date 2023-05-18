@@ -26,18 +26,8 @@ https://sl.bing.net/hWQdj3drStU
 ```
 根据我的搜索结果，prompt工程师是一种在人工智能领域负责设计和优化提示文本的工程师，以达到更准确和高质量的输出结果⁸。Prompt工程师的工作是向大型语言模型输入小提示，帮助AI模型生成预期的结果¹。Prompt工程师需要学习和训练的技能包括理解语言模型的架构、清晰地表达模糊的问题、克服数据偏见等²⁶。Prompt工程师是一种新兴的职业，有很多公司正在招聘这样的人才，例如Attain AI⁶、vidIQ⁶、Anthropic⁶等。Prompt工程师的前景看起来很好，有报道称他们的年薪可以达到30万美元⁹。
 
-源: 与必应的对话， 2023/5/2
-(1) Prompt Engineer人人都能赚30万美金？ - 知乎 - 知乎专栏. https://zhuanlan.zhihu.com/p/609534279.
-(2) 最全 Prompt 工程指南，让你成为 AI 模型驯化师 - 知乎. https://zhuanlan.zhihu.com/p/613999116.
-(3) “Prompt工程师”——生成式人工智能中最热门的职业之一 - 知乎. https://zhuanlan.zhihu.com/p/617160362.
-(4) How to Begin a Career in Prompt Engineering - MUO. https://www.makeuseof.com/career-in-prompt-engineering/.
-(5) 'Prompt Engineering,' One of the Hottest Jobs in AI, Explained. https://www.businessinsider.com/prompt-engineering-ai-chatgpt-jobs-explained-2023-3.
-(6) 提示工程师（Prompt工程师）是什么？有什么用？ - 知乎. https://zhuanlan.zhihu.com/p/608935831.
-(7) 你认为「提示（prompt）工程师」这一职业未来的前景如何？成为提示工程师需要学习/训练哪些技能？ - 知乎. https://www.zhihu.com/question/587931706.
-(8) What is a prompt engineer and who is hiring them? - LinkedIn. https://www.linkedin.com/pulse/what-prompt-engineer-who-hiring-them-jim-stroud.
-(9) Prompt Engineer Jobs, Employment | Indeed.com. https://www.indeed.com/q-Prompt-Engineer-jobs.html.
-(10) Prompt engineering - Wikipedia. https://en.wikipedia.org/wiki/Prompt_engineering.
 ```
+[Prompts 资源](./%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86.md#Prompts)
 
 **token 是什么?**
 单次对话的字符数，用来算钱
