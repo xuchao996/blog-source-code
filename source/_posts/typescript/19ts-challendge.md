@@ -1,6 +1,6 @@
 ---
 Title: ts challendge
-Date: 2023-02-12
+date: 2023-02-12
 ---
 
 

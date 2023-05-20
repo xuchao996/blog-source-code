@@ -1,7 +1,7 @@
 ---
 title: fiber 入门级了解（面试水平）
-Date: 2022-09-29
-Categories: react, fiber
+date: 2022-09-29
+categories: react, fiber
 ---
 
 
