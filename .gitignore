@@ -7,3 +7,4 @@ node_modules/
 _multiconfig.yml
 public
 ./source/_posts/typescript
+./source/_posts/deeplearning/线性代数.md
