@@ -198,17 +198,17 @@ User-Agent
     - Allow
     - Content-Encoding
     - Content-Language
-    - Content-Length （核心）
+    - Content-Length （核心）-- 获取的是服务器里文件的真实大小
     - Content-Location
     - Content-MD5
     - Content-Range
-    - Content-Type （核心）
+    - Content-Type （核心）-- 服务端语言可设置（猜测一般是通过rpc框架实现），告知客户端返回的数据类型
 ![内容首部](https://cdn.jsdelivr.net/gh/xuchao996/gallary@main/imgs/202305141515957.png)
 
 1. 实体缓存首部
     - ETag （实体内容MD5后的标识符）
     - Expires
-    - Last-Modified（实体最后一次修改的时间）
+    - Last-Modified（实体最后一次修改的时间）-- 获取的是服务器里文件的最后修改时间
 
 ## 提升编码速率
 报文主体和实体主体
